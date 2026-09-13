@@ -1,0 +1,6 @@
+{
+  "name": "Aion Autonomous AI Agent",
+  "description": "Full autonomous AI agent platform with multi-turn chat, GPT-Crawler web extraction, AiToEarn task orchestration, high thinking reasoning, and Veo 3 video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
